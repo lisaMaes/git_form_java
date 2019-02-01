@@ -13,6 +13,7 @@ test branche1
 retour sur master
 
  voilàa lala
+
 test rebase
 
 pin pin
@@ -24,4 +25,4 @@ tintin la pomponette
 pouët pouët
 
 MOUAHAHAHHahahaHHAhah
-J'ai Faimmmmm !!!!
+Chechechecherry BOMB !!
