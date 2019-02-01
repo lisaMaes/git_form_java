@@ -13,7 +13,7 @@ test branche1
 
 retour sur master
 
- voil�a lala
+ voilàa lala
 test rebase
 
 pin pin
@@ -23,3 +23,5 @@ le lapin
 tintin la pomponette
 
 pouët pouët
+
+MOUAHAHAHHahahaHHAhah
